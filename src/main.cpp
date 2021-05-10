@@ -12,6 +12,8 @@ References:
 3. https://dronebotworkshop.com/rotary-encoders-arduino/
 4. https://github.com/sungjik/my_personal_robotic_companion
 
+Corressponding ROS code at https://github.com/mijazm/simple_ros_robot_pid
+
 **/
 #include <Arduino.h>
 #include <L298N.h>
